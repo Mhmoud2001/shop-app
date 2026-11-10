@@ -5,4 +5,3 @@ def apply_discount(price, percent):
     return price * (100 - percent) / 100
 
 print("Search is coming soon")
-print("DEBUG MODE ON")
